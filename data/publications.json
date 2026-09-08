@@ -1,0 +1,1054 @@
+[
+  {
+    "order": 1,
+    "title": "Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation",
+    "url": "https://mofpo.github.io",
+    "authors": "Dian Wang*, Jisang Park*, Xiaomeng Xu, Han Zhang, Shuran Song†, Jeannette Bohg†",
+    "venue": "Preprint",
+    "year": null,
+    "status": "preprint",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://mofpo.github.io"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2607.11884"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/al_jPI1hxbE"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/pointW/mofpo"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/mofpo.gif",
+      "source": "https://www.dianwang.io/images/mofpo.gif"
+    }
+  },
+  {
+    "order": 2,
+    "title": "Action Map Policy: Learning 3D Closed-loop Manipulation via Pixel Classification",
+    "url": "https://haojhuang.github.io/amp_page/",
+    "authors": "Haojie Huang, Zhang Ye, Linfeng Zhao, Boce Hu, Mingxi Jia, Yu Qi, Ahmed Agha, Dian Wang, Robert Platt, Robin Walters",
+    "venue": "Preprint",
+    "year": null,
+    "status": "preprint",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://haojhuang.github.io/amp_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2607.10706"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/haojie_amp.gif",
+      "source": "https://www.dianwang.io/images/haojie_amp.gif"
+    }
+  },
+  {
+    "order": 3,
+    "title": "Pix2Act: Image-Space Manipulation Policies with Equivariant Augmentation",
+    "url": "https://haojhuang.github.io/pix2act_page/",
+    "authors": "Haojie Huang, Linfeng Zhao, Haotian Liu, Zhang Ye, Si-Yuan Huang, Mingxi Jia, Boce Hu, Fangzhou Lin, Yu Qi, Dian Wang, Robin Walters, Robert Platt",
+    "venue": "Preprint",
+    "year": null,
+    "status": "preprint",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://haojhuang.github.io/pix2act_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2607.11167"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/haojie_pix2act.gif",
+      "source": "https://www.dianwang.io/images/haojie_pix2act.gif"
+    }
+  },
+  {
+    "order": 4,
+    "title": "HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstrations",
+    "url": "https://hommi-robot.github.io",
+    "authors": "Xiaomeng Xu, Jisang Park, Han Zhang, Eric Cousineau, Aditya Bhat, Jose Barreiros, Dian Wang, Jeannette Bohg, Shuran Song",
+    "venue": "RSS 2026",
+    "year": 2026,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://hommi-robot.github.io"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2603.03243"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=0rPr9DbPfuo"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/xxm19/hommi"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/hommi.gif",
+      "source": "https://www.dianwang.io/images/hommi.gif"
+    }
+  },
+  {
+    "order": 5,
+    "title": "Equivariant Diffusion Policy for Sample-Efficient Robotic Manipulation",
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/02783649261424445",
+    "authors": "Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Xupeng Zhu, Boce Hu, Mingxi Jia, Jiuguang Wang, Robin Walters, Robert Platt",
+    "venue": "IJRR 2026",
+    "year": 2026,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/02783649261424445"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/equidiff.png",
+      "source": "https://www.dianwang.io/images/equidiff.png"
+    }
+  },
+  {
+    "order": 6,
+    "title": "Residual Rotation Correction using Tactile Equivariance",
+    "url": "https://yizhezhu0925.github.io/equitac.github.io/",
+    "authors": "Yizhe Zhu, Zhang Ye, Boce Hu, Haibo Zhao, Yu Qi, Dian Wang†, Robert Platt†",
+    "venue": "RAL 2026",
+    "year": 2026,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://yizhezhu0925.github.io/equitac.github.io/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2511.07381"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/yizhe_equitac.png",
+      "source": "https://www.dianwang.io/images/yizhe_equitac.png"
+    }
+  },
+  {
+    "order": 7,
+    "title": "Generalizable Hierarchical Skill Learning via Object-Centric Representation",
+    "url": "https://codemasterzhao.github.io/GSL/",
+    "authors": "Haibo Zhao, Yu Qi, Boce Hu, Yizhe Zhu, Ziyan Chen, Xupeng Zhu, Owen Howell, Haojie Huang, Robin Walters, Dian Wang†, Robert Platt†",
+    "venue": "RAL 2026",
+    "year": 2026,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://codemasterzhao.github.io/GSL/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2510.21121"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/haibo_gsl.png",
+      "source": "https://www.dianwang.io/images/haibo_gsl.png"
+    }
+  },
+  {
+    "order": 8,
+    "title": "RAVEN: End-to-end Equivariant Robot Learning with RGB Cameras",
+    "url": "https://openreview.net/pdf?id=z8BN7KyaPl",
+    "authors": "David Klee*, Boce Hu*, Andrew Cole, Heng Tian, Dian Wang, Robert Platt†, Robin Walters†",
+    "venue": "ICLR 2026",
+    "year": 2026,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://openreview.net/pdf?id=z8BN7KyaPl"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/boce_raven.gif",
+      "source": "https://www.dianwang.io/images/boce_raven.gif"
+    }
+  },
+  {
+    "order": 9,
+    "title": "A Practical Guide for Incorporating Symmetry in Diffusion Policy",
+    "url": "https://sym-in-dp.github.io",
+    "authors": "Dian Wang, Boce Hu, Shuran Song, Robin Walters†, Robert Platt†",
+    "venue": "NeurIPS 2025",
+    "year": 2025,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://sym-in-dp.github.io"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2505.13431"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/rel_traj.png",
+      "source": "https://www.dianwang.io/images/rel_traj.png"
+    }
+  },
+  {
+    "order": 10,
+    "title": "3D Equivariant Visuomotor Policy Learning via Spherical Projection",
+    "url": "https://isp-3d.github.io",
+    "authors": "Boce Hu, Dian Wang, David Klee, Heng Tian, Xupeng Zhu, Haojie Huang, Robert Platt, Robin Walters",
+    "venue": "NeurIPS 2025, Spotlight",
+    "year": 2025,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://isp-3d.github.io"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2505.16969"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/boce_i2s.gif",
+      "source": "https://www.dianwang.io/images/boce_i2s.gif"
+    }
+  },
+  {
+    "order": 11,
+    "title": "Hierarchical Equivariant Policy via Frame Transfer",
+    "url": "https://codemasterzhao.github.io/HierEquiPo.github.io/",
+    "authors": "Haibo Zhao*, Dian Wang*, Yizhe Zhu, Xupeng Zhu, Owen Howell, Linfeng Zhao, Yaoyao Qian, Robin Walters, Robert Platt",
+    "venue": "ICML 2025",
+    "year": 2025,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://codemasterzhao.github.io/HierEquiPo.github.io/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2502.05728"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/haibo_hep.png",
+      "source": "https://www.dianwang.io/images/haibo_hep.png"
+    }
+  },
+  {
+    "order": 12,
+    "title": "Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization",
+    "url": "https://equipushgrasp.github.io",
+    "authors": "Boce Hu*, Heng Tian*, Dian Wang, Haojie Huang, Xupeng Zhu, Robin Walters, Robert Platt",
+    "venue": "RAL 2025",
+    "year": 2025,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://equipushgrasp.github.io"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2504.03053"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/boce_push_grasp.png",
+      "source": "https://www.dianwang.io/images/boce_push_grasp.png"
+    }
+  },
+  {
+    "order": 13,
+    "title": "Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping",
+    "url": "https://mingxi-jia.github.io/gem_page/",
+    "authors": "Mingxi Jia, Haojie Huang, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex",
+    "venue": "RAL 2025, Best Paper Award Honorable Mention 🏆",
+    "year": 2025,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://mingxi-jia.github.io/gem_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2406.15677"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/mingxi_gem.png",
+      "source": "https://www.dianwang.io/images/mingxi_gem.png"
+    }
+  },
+  {
+    "order": 14,
+    "title": "Coarse-to-Fine 3D Keyframe Transporter",
+    "url": "https://arxiv.org/pdf/2502.01773",
+    "authors": "Xupeng Zhu, David Klee*, Dian Wang*, Boce Hu, Haojie Huang, Arsh Tangri, Robin Walters, Robert Platt",
+    "venue": "Preprint",
+    "year": null,
+    "status": "preprint",
+    "extra": "",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2502.01773"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/xupeng_c2f.png",
+      "source": "https://www.dianwang.io/images/xupeng_c2f.png"
+    }
+  },
+  {
+    "order": 15,
+    "title": "MATCH POLICY: A Simple Pipeline from Point Cloud Registration to Manipulation Policies",
+    "url": "https://haojhuang.github.io/match_page/",
+    "authors": "Haojie Huang, Haotian Liu, Dian Wang, Robin Walter†, Robert Platt†",
+    "venue": "ICRA 2025",
+    "year": 2025,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://haojhuang.github.io/match_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://www.arxiv.org/pdf/2409.15517"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/haojie_match.png",
+      "source": "https://www.dianwang.io/images/haojie_match.png"
+    }
+  },
+  {
+    "order": 16,
+    "title": "Equivariant Diffusion Policy",
+    "url": "https://equidiff.github.io/",
+    "authors": "Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt",
+    "venue": "CoRL 2024, Outstanding Paper Award Finalist 🏆",
+    "year": 2024,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://equidiff.github.io/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2407.01812"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/xIFSx_NVROU?si=MaxsHmih6AnQKAVy"
+      },
+      {
+        "label": "Talk",
+        "url": "https://www.youtube.com/watch?v=lkNraxnsGCw&t=630s"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/pointW/equidiff"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/equidiff.gif",
+      "source": "https://www.dianwang.io/images/equidiff.gif"
+    }
+  },
+  {
+    "order": 17,
+    "title": "OrbitGrasp: SE(3)-Equivariant Grasp Learning",
+    "url": "https://orbitgrasp.github.io",
+    "authors": "Boce Hu, Xupeng Zhu*, Dian Wang*, Zihao Dong*, Haojie Huang*, Chenghao Wang*, Robin Walters, Robert Platt",
+    "venue": "CoRL 2024",
+    "year": 2024,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://orbitgrasp.github.io"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2407.03531"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=Y3UxZMPc0ms"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/boce_orbit.png",
+      "source": "https://www.dianwang.io/images/boce_orbit.png"
+    }
+  },
+  {
+    "order": 18,
+    "title": "IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies",
+    "url": "https://haojhuang.github.io/imagine_page/",
+    "authors": "Haojie Huang, Karl Schmeckpeper*, Dian Wang*, Ondrej Biza*, Yaoyao Qian, Haotian Liu, Mingxi Jia, Robert Platt, Robin Walters",
+    "venue": "CoRL 2024",
+    "year": 2024,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://haojhuang.github.io/imagine_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2406.11740"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=EpYUDb8bUP4"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/haojie_imagine.png",
+      "source": "https://www.dianwang.io/images/haojie_imagine.png"
+    }
+  },
+  {
+    "order": 19,
+    "title": "Equivariant Offline Reinforcement Learning",
+    "url": "https://arxiv.org/pdf/2406.13961",
+    "authors": "Arsh Tangri, Ondrej Biza, Dian Wang, David Klee, Owen Howell, Robert Platt",
+    "venue": "Preprint",
+    "year": null,
+    "status": "preprint",
+    "extra": "",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2406.13961"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/arsh_offline.png",
+      "source": "https://www.dianwang.io/images/arsh_offline.png"
+    }
+  },
+  {
+    "order": 20,
+    "title": "Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D",
+    "url": "https://haojhuang.github.io/fourtran_page/",
+    "authors": "Haojie Huang, Owen Lewis Howell*, Dian Wang*, Xupeng Zhu*, Robert Platt†, Robin Walters†",
+    "venue": "ICLR 2024",
+    "year": 2024,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://haojhuang.github.io/fourtran_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://openreview.net/pdf?id=UulwvAU1W0"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtube.com/playlist?list=PLtEvDdcT-Ai8irdlBB7wDsfOuOIZo1ZM2&si=iBD87RsHBr5aIFXt"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/haojie_iclr24.png",
+      "source": "https://www.dianwang.io/images/haojie_iclr24.png"
+    }
+  },
+  {
+    "order": 21,
+    "title": "Leveraging Symmetries in Pick and Place",
+    "url": "https://arxiv.org/pdf/2308.07948.pdf",
+    "authors": "Haojie Huang, Dian Wang, Arsh Tangri, Robin Walters†, Robert Platt†",
+    "venue": "The International Journal of Robotics Research. 2024",
+    "year": 2024,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2308.07948.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/HaojHuang/Equivariant-Transporter-Net"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/haojie_ijrr.png",
+      "source": "https://www.dianwang.io/images/haojie_ijrr.png"
+    }
+  },
+  {
+    "order": 22,
+    "title": "A General Theory of Correct, Incorrect, and Extrinsic Equivariance",
+    "url": "https://arxiv.org/pdf/2303.04745.pdf",
+    "authors": "Dian Wang, Xupeng Zhu, Jung Yeon Park, Mingxi Jia, Guanang Su, Robert Platt, Robin Walters",
+    "venue": "NeurIPS 2023",
+    "year": 2023,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2303.04745.pdf"
+      },
+      {
+        "label": "Talk",
+        "url": "https://youtu.be/snCMcFjuHVI"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/pointW/ext_theory"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/ice_example.png",
+      "source": "https://www.dianwang.io/images/ice_example.png"
+    }
+  },
+  {
+    "order": 23,
+    "title": "Equivariant Reinforcement Learning under Partial Observability",
+    "url": "https://sites.google.com/view/equi-rl-pomdp",
+    "authors": "Hai Huu Nguyen, Andrea Baisero, David Klee, Dian Wang, Robert Platt, Christopher Amato",
+    "venue": "CoRL 2023",
+    "year": 2023,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://sites.google.com/view/equi-rl-pomdp"
+      },
+      {
+        "label": "PDF",
+        "url": "https://openreview.net/pdf?id=AnDDMQgM7-"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/hai-h-nguyen/equi-rl-for-pomdps"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/hai_corl23.png",
+      "source": "https://www.dianwang.io/images/hai_corl23.png"
+    }
+  },
+  {
+    "order": 24,
+    "title": "On Robot Grasp Learning Using Equivariant Models",
+    "url": "https://zxp-s-works.github.io/equivariant_grasp_site/",
+    "authors": "Xupeng Zhu, Dian Wang, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt",
+    "venue": "Autonomous Robots. 2023",
+    "year": 2023,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://zxp-s-works.github.io/equivariant_grasp_site/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://link.springer.com/content/pdf/10.1007/s10514-023-10112-w.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/xupeng_ar.jpg",
+      "source": "https://www.dianwang.io/images/xupeng_ar.jpg"
+    }
+  },
+  {
+    "order": 25,
+    "title": "The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry",
+    "url": "https://pointw.github.io/extrinsic_page/",
+    "authors": "Dian Wang, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters†, Robert Platt†",
+    "venue": "ICLR 2023, Spotlight",
+    "year": 2023,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://pointw.github.io/extrinsic_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2211.09231.pdf"
+      },
+      {
+        "label": "OpenReview",
+        "url": "https://openreview.net/forum?id=P4MUGRM4Acu"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=US4uWndGx9I"
+      },
+      {
+        "label": "Talk",
+        "url": "https://slideslive.com/38998670/the-surprising-effectiveness-of-equivariant-models-in-domains-with-latent-symmetry"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/pointW/extrinsic_equi"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/iclr23.gif",
+      "source": "https://www.dianwang.io/images/iclr23.gif"
+    }
+  },
+  {
+    "order": 26,
+    "title": "SEIL: Simulation-augmented Equivariant Imitation Learning",
+    "url": "https://mingxi-jia.github.io/SEIL_site/",
+    "authors": "Mingxi Jia*, Dian Wang*, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt",
+    "venue": "ICRA 2023",
+    "year": 2023,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://mingxi-jia.github.io/SEIL_site/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2211.00194.pdf"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=UHUmq-cOMh4"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/mingxi_icra23.png",
+      "source": "https://www.dianwang.io/images/mingxi_icra23.png"
+    }
+  },
+  {
+    "order": 27,
+    "title": "Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection",
+    "url": "https://haojhuang.github.io/edge_grasp_page/",
+    "authors": "Haojie Huang, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt",
+    "venue": "ICRA 2023",
+    "year": 2023,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://haojhuang.github.io/edge_grasp_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2211.00191.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/HaojHuang/Edge-Grasp-Network"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/haojie_icra23.png",
+      "source": "https://www.dianwang.io/images/haojie_icra23.png"
+    }
+  },
+  {
+    "order": 28,
+    "title": "On-Robot Learning With Equivariant Models",
+    "url": "https://pointw.github.io/equi_robot_page/",
+    "authors": "Dian Wang, Mingxi Jia, Xupeng Zhu, Robin Walters, Robert Platt",
+    "venue": "CoRL 2022",
+    "year": 2022,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://pointw.github.io/equi_robot_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2203.04923.pdf"
+      },
+      {
+        "label": "OpenReview",
+        "url": "https://openreview.net/forum?id=K8W6ObPZQyh"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=NEUDTVXlKeg"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/pointW/equi_rl"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/rss22.png",
+      "source": "https://www.dianwang.io/images/rss22.png"
+    }
+  },
+  {
+    "order": 29,
+    "title": "Leveraging Fully Observable Policies for Learning under Partial Observability",
+    "url": "https://sites.google.com/view/cosil-corl22",
+    "authors": "Hai Huu Nguyen, Andrea Baisero, Dian Wang, Christopher Amato, Robert Platt",
+    "venue": "CoRL 2022",
+    "year": 2022,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://sites.google.com/view/cosil-corl22"
+      },
+      {
+        "label": "PDF",
+        "url": "https://openreview.net/pdf?id=pn-HOPBioUE"
+      },
+      {
+        "label": "OpenReview",
+        "url": "https://openreview.net/forum?id=pn-HOPBioUE"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=qSm08Q8BlbU"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/hai-h-nguyen/cosil-corl22"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/hai_corl22.png",
+      "source": "https://www.dianwang.io/images/hai_corl22.png"
+    }
+  },
+  {
+    "order": 30,
+    "title": "BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework",
+    "url": "https://arxiv.org/pdf/2205.14292.pdf",
+    "authors": "Dian Wang*, Colin Kohler*, Xupeng Zhu, Mingxi Jia, Robert Platt",
+    "venue": "ISRR 2022",
+    "year": 2022,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2205.14292.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ColinKohler/BulletArm"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/bulletarm.png",
+      "source": "https://www.dianwang.io/images/bulletarm.png"
+    }
+  },
+  {
+    "order": 31,
+    "title": "Equivariant Transporter Network",
+    "url": "https://haojhuang.github.io/etp_page/",
+    "authors": "Haojie Huang, Dian Wang, Robin Walters, Robert Platt",
+    "venue": "RSS 2022",
+    "year": 2022,
+    "status": "published",
+    "extra": "ICRA 2022 Workshop on Scaling Robot Learning, Best Paper Award Finalist",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://haojhuang.github.io/etp_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2202.09400.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/HaojHuang/Equivariant-Transporter-Net"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/equi_transporter.png",
+      "source": "https://www.dianwang.io/images/equi_transporter.png"
+    }
+  },
+  {
+    "order": 32,
+    "title": "Sample Efficient Grasp Learning Using Equivariant Models",
+    "url": "https://zxp-s-works.github.io/equivariant_grasp_site/",
+    "authors": "Xupeng Zhu, Dian Wang, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt",
+    "venue": "RSS 2022",
+    "year": 2022,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://zxp-s-works.github.io/equivariant_grasp_site/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2202.09468.pdf"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/0jaHpz3KQ7I"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/rss_grasp.jpeg",
+      "source": "https://www.dianwang.io/images/rss_grasp.jpeg"
+    }
+  },
+  {
+    "order": 33,
+    "title": "SO(2)-Equivariant Reinforcement Learning",
+    "url": "https://pointw.github.io/equi_rl_page/",
+    "authors": "Dian Wang, Robin Walters, Robert Platt",
+    "venue": "ICLR 2022, Spotlight",
+    "year": 2022,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://pointw.github.io/equi_rl_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2203.04439.pdf"
+      },
+      {
+        "label": "OpenReview",
+        "url": "https://openreview.net/forum?id=7F9cOhdvfk_"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/8Ocwv2nnSKI"
+      },
+      {
+        "label": "Talk",
+        "url": "https://iclr.cc/virtual/2022/spotlight/6799"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/pointW/equi_rl"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/iclr22_drawer.gif",
+      "source": "https://www.dianwang.io/images/iclr22_drawer.gif"
+    }
+  },
+  {
+    "order": 34,
+    "title": "Equivariant Q Learning in Spatial Action Spaces",
+    "url": "https://pointw.github.io/equi_q_page/",
+    "authors": "Dian Wang, Robin Walters, Xupeng Zhu, Robert Platt",
+    "venue": "CoRL 2021",
+    "year": 2021,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://pointw.github.io/equi_q_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2110.15443.pdf"
+      },
+      {
+        "label": "OpenReview",
+        "url": "https://openreview.net/forum?id=IScz42A3iCI"
+      },
+      {
+        "label": "Poster",
+        "url": "https://openreview.net/attachment?id=IScz42A3iCI&name=poster"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=GtdpvjLHc_Q"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/pointW/equi_q_corl21"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/corl21.png",
+      "source": "https://www.dianwang.io/images/corl21.png"
+    }
+  },
+  {
+    "order": 35,
+    "title": "Design Guidelines for Human-Robot Interaction with Assistive Robot Manipulation Systems",
+    "url": "https://www.degruyter.com/document/doi/10.1515/pjbr-2021-0023/html",
+    "authors": "Alexander Wilkinson, Michael Gonzales, Patrick Hoey, David Kontak, Dian Wang, Noah Torname, Amelia Sinclaire, Zhao Han, Jordan Allspaw, Robert Platt, Holly Yanco",
+    "venue": "Paladyn, Journal of Behavioral Robotics. 2021",
+    "year": 2021,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://www.degruyter.com/document/doi/10.1515/pjbr-2021-0023/html"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/Paladyn21.png",
+      "source": "https://www.dianwang.io/images/Paladyn21.png"
+    }
+  },
+  {
+    "order": 36,
+    "title": "Action Priors for Large Action Spaces in Robotics",
+    "url": "https://arxiv.org/pdf/2101.04178.pdf",
+    "authors": "Ondrej Biza, Dian Wang, Robert Platt, Jan-Willem van de Meent, Lawson LS Wong",
+    "venue": "AAMAS 2021",
+    "year": 2021,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2101.04178.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ondrejba/action_priors"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/aamas21.png",
+      "source": "https://www.dianwang.io/images/aamas21.png"
+    }
+  },
+  {
+    "order": 37,
+    "title": "Policy learning in SE (3) action spaces",
+    "url": "https://pointw.github.io/asrse3-page/",
+    "authors": "Dian Wang, Colin Kohler, Robert Platt",
+    "venue": "CoRL 2020",
+    "year": 2020,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://pointw.github.io/asrse3-page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2010.02798.pdf"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/FiHoIF1oLZs"
+      },
+      {
+        "label": "Talk",
+        "url": "https://youtu.be/W0UQMntqaog"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/pointW/asrse3_corl20"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/asrse3.png",
+      "source": "https://www.dianwang.io/images/asrse3.png"
+    }
+  },
+  {
+    "order": 38,
+    "title": "Towards Assistive Robotic Pick and Place in Open World Environments",
+    "url": "https://pointw.github.io/scooter-page/",
+    "authors": "Dian Wang, Colin Kohler, Andreas ten Pas, Alexander Wilkinson, Maozhi Liu, Holly Yanco, Robert Platt",
+    "venue": "ISRR 2019",
+    "year": 2019,
+    "status": "published",
+    "extra": "",
+    "links": [
+      {
+        "label": "Webpage",
+        "url": "https://pointw.github.io/scooter-page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/1809.09541.pdf"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=ZimZlsJTaTU"
+      }
+    ],
+    "thumbnail": {
+      "src": "/assets/publications/scooter.png",
+      "source": "https://www.dianwang.io/images/scooter.png"
+    }
+  }
+]

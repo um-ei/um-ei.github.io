@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1220" height="392" viewBox="-19 -24 610 196" version="1.1" role="img" aria-labelledby="title description">
+  <title id="title">UMEI — v31 / Original Stanford red i / No head highlight</title>
+  <desc id="description">Based on v30 option 2. The i body and dot use original Stanford red #8C1515. All geometry, UM blue, lettering, spacing, and existing shoulder and chassis highlights are unchanged. No head highlight.</desc>
+  <g id="umei-wordmark">
+    <g id="um-ligature" inkscape:groupmode="layer" inkscape:label="01 UM ligature — reference redraw">
+      <path d="M 0,4 H 60 V 106 C 60,128 70,139 89,139 C 108,139 121,126 121,105 V 17 H 101 L 93,9 V 4 H 154 V 23 C 164,7 178,0 196,0 C 218,0 235,10 244,29 C 253,10 270,0 290,0 C 322,0 342,19 342,50 V 138 H 362 L 370,146 V 150 H 308 V 54 C 308,32 297,19 278,19 C 258,19 246,34 246,57 V 138 H 266 L 274,146 V 150 H 213 V 54 C 213,32 202,19 183,19 C 165,19 153,33 153,57 V 150 H 120 V 134 C 110,147 97,154 79,154 C 46,154 25,138 25,110 V 17 H 8 L 0,9 Z" fill="#00628C" id="path1" />
+    </g>
+    <g id="ei-bimanual-assembly" transform="translate(-35 0)" inkscape:groupmode="layer" inkscape:label="02 EI — bimanual assembly (shifted left 35)">
+      <g id="robot-torso" inkscape:groupmode="layer" inkscape:label="03 E — original 30-unit spine with narrower 36-unit chassis">
+        <path id="torso" d="M 428,0 H 439 V 150 H 428 A 19,19 0 0 1 409,131 V 19 A 19,19 0 0 1 428,0 Z" fill="#00628C" />
+        <path id="central-chassis" d="M 419.63636364,40 H 433.54545455 Q 445,40,445,54 V 98 Q 445,112,433.54545455,112 H 419.63636364 Q 409,112,409,99 V 53 Q 409,40,419.63636364,40 Z" fill="#00628C" />
+        <path id="chassis-panel-outline" d="M 418,48 H 432.72727273 Q 437.63636364,48,437.63636364,54 V 60 L 433.54545455,65 V 87 L 437.63636364,92 V 98 Q 437.63636364,104,432.72727273,104 H 418 Q 415.54545455,104,415.54545455,101 V 51 Q 415.54545455,48,418,48 Z" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linejoin="round" />
+        <path id="chassis-panel-vents" d="M 419.63636364,68 H 426.18181818 M 419.63636364,76 H 426.18181818 M 419.63636364,84 H 426.18181818" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" />
+      </g>
+      <g id="upper-arm" inkscape:groupmode="layer" inkscape:label="E — upper link, 28-unit thickness">
+        <rect id="upper-link" x="428" y="0" width="68" height="28" fill="#00628C" />
+        <rect id="upper-wrist-link" x="496" y="11" width="25" height="6" fill="#00628C" rx="2" />
+      </g>
+      <g id="lower-arm" inkscape:groupmode="layer" inkscape:label="E — lower link, 28-unit thickness">
+        <rect id="lower-link" x="428" y="122" width="68" height="28" fill="#00628C" />
+        <rect id="lower-wrist-link" x="496" y="133" width="25" height="6" fill="#00628C" rx="2" />
+      </g>
+      <g id="robot-head" inkscape:groupmode="layer" inkscape:label="06 E — rounded head with roof highlight and stereo eye window, no ears">
+        <rect id="chassis-neck" x="438" y="65" width="17" height="22" rx="3" fill="#00628C" />
+        <path id="sensor-pod-shell" d="M 459,58 H 475 Q 484,58 484,67 V 85 Q 484,94 475,94 H 459 Q 450,94 450,85 V 67 Q 450,58 459,58 Z" fill="#00628C" />
+        <rect id="front-sensor-panel" x="470" y="63" width="9" height="26" rx="4.5" fill="#FFFFFF" />
+        <circle id="upper-sensor-lens" cx="474.5" cy="69.5" r="2.5" fill="#00628C" />
+        <circle id="lower-sensor-lens" cx="474.5" cy="82.5" r="2.5" fill="#00628C" />
+      </g>
+      <g id="upper-gripper" inkscape:groupmode="layer" inkscape:label="07 Upper gripper — 16.6667-unit fingers, 6-unit lines, 2-unit corner radii" transform="translate(-3 -6)">
+        <path id="upper-rounded-gripper" d="M 543.66666667,-1 A 2,2 0 0 0 541.66666667,-3 L 523,-3 A 2,2 0 0 0 521,-1 L 521,41 A 2,2 0 0 0 523,43 L 541.66666667,43 A 2,2 0 0 0 543.66666667,41 L 543.66666667,39 A 2,2 0 0 0 541.66666667,37 L 529,37 A 2,2 0 0 1 527,35 L 527,5 A 2,2 0 0 1 529,3 L 541.66666667,3 A 2,2 0 0 0 543.66666667,1 Z" fill="#00628C" />
+      </g>
+      <g id="lower-gripper" inkscape:groupmode="layer" inkscape:label="08 Lower gripper — matching 16.6667-unit fingers, centered at y136" transform="translate(16 0)">
+        <path id="lower-rounded-gripper" d="M 524.66666667,126 A 2,2 0 0 0 522.66666667,124 L 504,124 A 2,2 0 0 0 502,126 L 502,146 A 2,2 0 0 0 504,148 L 522.66666667,148 A 2,2 0 0 0 524.66666667,146 L 524.66666667,144 A 2,2 0 0 0 522.66666667,142 L 510,142 A 2,2 0 0 1 508,140 L 508,132 A 2,2 0 0 1 510,130 L 522.66666667,130 A 2,2 0 0 0 524.66666667,128 Z" fill="#00628C" />
+        <rect id="lower-top-contact-underlap" x="522.66666667" y="126" width="5" height="2" fill="#00628C" />
+        <rect id="lower-bottom-contact-underlap" x="511.66666667" y="139" width="10" height="6" fill="#00628C" />
+      </g>
+      <g id="i-body" inkscape:groupmode="layer" inkscape:label="09 i — original 69-unit base width, 12-unit base height, shortened left serif" transform="translate(-0.33333333 0)">
+        <path id="cardinal-i-body" d="M 522.33333333,44 H 575 V 130 H 583 L 597,138.4 V 142 H 528 V 130 H 541 V 57 H 530.33333333 L 522.33333333,49 Z" fill="#8C1515" />
+      </g>
+      <g id="i-dot" inkscape:groupmode="layer" inkscape:label="10 i — Cardinal red dot shifted left with upper gripper" transform="translate(-14.33333333 -6)">
+        <circle id="cardinal-dot" cx="558" cy="20" r="18" fill="#8C1515" />
+      </g>
+      <g id="robot-joints" inkscape:groupmode="layer" inkscape:label="11 E — v5 hollow centers, shoulder and neck arc highlights">
+        <g id="upper-shoulder">
+          <circle id="upper-shoulder-outer-ring" cx="428" cy="19" r="19" fill="#00628C" />
+          <circle id="upper-shoulder-white-center" cx="428" cy="19" r="7" fill="#FFFFFF" />
+          <path id="upper-shoulder-arc-highlight" d="M 416.5438,17.9977 A 11.5,11.5 0 0 0 429.0023,30.4562" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" />
+        </g>
+        <g id="lower-shoulder">
+          <circle id="lower-shoulder-outer-ring" cx="428" cy="131" r="19" fill="#00628C" />
+          <circle id="lower-shoulder-white-center" cx="428" cy="131" r="7" fill="#FFFFFF" />
+          <path id="lower-shoulder-arc-highlight" d="M 416.5438,129.9977 A 11.5,11.5 0 0 0 429.0023,142.4562" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" />
+        </g>
+        <g id="upper-wrist">
+          <circle id="upper-wrist-outer-ring" cx="496" cy="14" r="14" fill="#00628C" />
+          <circle id="upper-wrist-white-center" cx="496" cy="14" r="5" fill="#FFFFFF" />
+        </g>
+        <g id="lower-wrist">
+          <circle id="lower-wrist-outer-ring" cx="496" cy="136" r="14" fill="#00628C" />
+          <circle id="lower-wrist-white-center" cx="496" cy="136" r="5" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

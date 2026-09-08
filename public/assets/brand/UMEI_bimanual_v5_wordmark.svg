@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1232" height="392" viewBox="-19 -24 616 196" version="1.1" role="img" aria-labelledby="title description">
+  <title id="title">UMEI — bimanual assembly wordmark / v5 / seamless gold i</title>
+  <desc id="description">Editable vector revision based on the supplied reference. UM is retained unchanged from v2. The EI group is translated 19 units left. Both grippers use identical 34-by-8 fingers, 8-unit palm thickness, and 30-unit inner reach; their jaw openings are 36 and 20. The lower shoulder-to-wrist span is 52 units versus 71 above. Three ring joints share x=424 in EI-local coordinates, at y=20,76,132. All joint holes and eye holes are true transparent cutouts. The entire i is gold. No raster images or fonts are embedded. The UM ligature is the prior reference redraw, not an official master asset. In v5, only the gold stem and base are combined into one continuous path to remove the shared-edge rendering seam; all other artwork, dimensions, colors, and positions are unchanged.</desc>
+  <g id="umei-wordmark">
+    <g id="um-ligature" inkscape:groupmode="layer" inkscape:label="01 UM ligature — reference redraw">
+      <path d="M 0,4 H 60 V 106 C 60,128 70,139 89,139 C 108,139 121,126 121,105 V 17 H 101 L 93,9 V 4 H 154 V 23 C 164,7 178,0 196,0 C 218,0 235,10 244,29 C 253,10 270,0 290,0 C 322,0 342,19 342,50 V 138 H 362 L 370,146 V 150 H 308 V 54 C 308,32 297,19 278,19 C 258,19 246,34 246,57 V 138 H 266 L 274,146 V 150 H 213 V 54 C 213,32 202,19 183,19 C 165,19 153,33 153,57 V 150 H 120 V 134 C 110,147 97,154 79,154 C 46,154 25,138 25,110 V 17 H 8 L 0,9 Z" fill="#00628C" id="path1"/>
+    </g>
+    <g id="ei-bimanual-assembly" transform="translate(-19 0)" inkscape:groupmode="layer" inkscape:label="02 EI — bimanual assembly (shifted left 19)">
+      <g id="robot-torso" inkscape:groupmode="layer" inkscape:label="03 E — spine and three aligned ring joints">
+        <path id="torso" fill="#00628C" fill-rule="evenodd" d="M 409,31.6619 H 439 V 120.3381 H 409 Z M 431,76 A 7,7 0 1 0 417,76 A 7,7 0 1 0 431,76 Z"/>
+        <path id="upper-shoulder" d="M 443,20 A 19,19 0 1 0 405,20 A 19,19 0 1 0 443,20 Z M 431,20 A 7,7 0 1 0 417,20 A 7,7 0 1 0 431,20 Z" fill="#00628C" fill-rule="evenodd"/>
+        <path id="lower-shoulder" d="M 443,132 A 19,19 0 1 0 405,132 A 19,19 0 1 0 443,132 Z M 431,132 A 7,7 0 1 0 417,132 A 7,7 0 1 0 431,132 Z" fill="#00628C" fill-rule="evenodd"/>
+        <path id="neck-joint" fill="#00628C" fill-rule="evenodd" d="M 443,76 A 19,19 0 1 0 405,76 A 19,19 0 1 0 443,76 Z M 431,76 A 7,7 0 1 0 417,76 A 7,7 0 1 0 431,76 Z"/>
+      </g>
+      <g id="upper-arm" inkscape:groupmode="layer" inkscape:label="04 E — upper arm (71-unit span)">
+        <path id="upper-link" d="M 435.6619,5 H 495 V 15 A 5,5 0 0 0 495,25 V 35 H 435.6619 Z" fill="#00628C"/>
+        <path id="upper-wrist" d="M 510,20 A 15,15 0 1 0 480,20 A 15,15 0 1 0 510,20 Z M 500,20 A 5,5 0 1 0 490,20 A 5,5 0 1 0 500,20 Z" fill="#00628C" fill-rule="evenodd"/>
+        <rect id="upper-wrist-link" x="508" y="14" width="16" height="12" fill="#00628C"/>
+      </g>
+      <g id="lower-arm" inkscape:groupmode="layer" inkscape:label="05 E — lower arm (52-unit span)">
+        <path id="lower-link" d="M 435.6619,117 H 476 V 127 A 5,5 0 0 0 476,137 V 147 H 435.6619 Z" fill="#00628C"/>
+        <path id="lower-wrist" d="M 491,132 A 15,15 0 1 0 461,132 A 15,15 0 1 0 491,132 Z M 481,132 A 5,5 0 1 0 471,132 A 5,5 0 1 0 481,132 Z" fill="#00628C" fill-rule="evenodd"/>
+        <rect id="lower-wrist-link" x="489" y="126" width="16" height="12" fill="#00628C"/>
+      </g>
+      <g id="robot-head" inkscape:groupmode="layer" inkscape:label="05 E / square head and two small eyes">
+        <rect id="short-neck" x="436" y="64" width="20" height="24" fill="#00628C"/>
+        <path id="square-head-with-eye-cutouts" d="M 452,59 H 486 V 93 H 452 Z M 479.6,69.5 A 2.6,2.6 0 1 0 474.4,69.5 A 2.6,2.6 0 1 0 479.6,69.5 Z M 479.6,82.5 A 2.6,2.6 0 1 0 474.4,82.5 A 2.6,2.6 0 1 0 479.6,82.5 Z" fill="#00628C" fill-rule="evenodd"/>
+      </g>
+      <g id="upper-gripper" inkscape:groupmode="layer" inkscape:label="07 Upper gripper — 36-unit opening">
+        <rect id="upper-palm" x="520" y="-6" width="8" height="52" fill="#00628C"/>
+        <rect id="upper-finger-top" x="524" y="-6" width="34" height="8" fill="#00628C"/>
+        <rect id="upper-finger-bottom" x="524" y="38" width="34" height="8" fill="#00628C"/>
+      </g>
+      <g id="lower-gripper" inkscape:groupmode="layer" inkscape:label="08 Lower gripper — identical fingers, 20-unit opening">
+        <rect id="lower-palm" x="501" y="114" width="8" height="36" fill="#00628C"/>
+        <rect id="lower-finger-top" x="505" y="114" width="34" height="8" fill="#00628C"/>
+        <rect id="lower-finger-bottom" x="505" y="142" width="34" height="8" fill="#00628C"/>
+      </g>
+      <g id="i-body" inkscape:groupmode="layer" inkscape:label="09 i / unified gold stem and base — seamless outline"><path id="gold-i-body" d="M 541,54 H 575 V 122 H 583 L 597,136 V 142 H 528 V 122 H 541 Z" fill="#B28A45"/></g><g id="i-dot" inkscape:groupmode="layer" inkscape:label="10 i / enlarged gold dot aligned with upper arm">
+        <circle id="gold-dot" cx="558" cy="20" r="18" fill="#B28A45"/>
+      </g>
+    </g>
+  </g>
+</svg>
