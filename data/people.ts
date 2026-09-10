@@ -9,7 +9,6 @@ export const faculty = {
 };
 
 // Degree categories are supplied by the lab, not inferred from external pages.
-// Add an image path and website here when Yi Zhou's materials are available.
 export const members = [
   {
     name: 'Yizhe Zhu',
@@ -30,7 +29,7 @@ export const members = [
   {
     name: 'Yi Zhou',
     role: "Master’s Student",
-    image: null,
+    image: '/assets/people/yi-zhou.jpg',
     imageClass: '',
     website: null,
     initials: 'YZ',

@@ -28,6 +28,6 @@ Degree categories and membership are supplied by the user on 2026-09-07.
 
 - Yizhe Zhu — PhD Student. [User-supplied page](https://yizhezhu0925.github.io/yizhezhu0925/); [portrait](https://yizhezhu0925.github.io/yizhezhu0925/images/profile.png). The external page still says Master at Northeastern; this website follows the user’s current PhD classification.
 - Xiaoming Liu — PhD Student. [Portrait source page](https://www.bolt-lab.org/members/3_xiaoming.html); [portrait](https://www.bolt-lab.org/images/xiaoming.jpg). His website link is omitted from the lab page at the user’s request.
-- Yi Zhou — Master’s Student. No photo or website was supplied. Initials are used as a typographic placeholder; no portrait was invented.
+- Yi Zhou — Master’s Student. Portrait supplied by the user on 2026-09-10 and copied to `public/assets/people/yi-zhou.jpg`. No personal website was supplied.
 
 No group photos, Robots section, or Alumni section are included.
