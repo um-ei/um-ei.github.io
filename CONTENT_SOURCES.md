@@ -5,7 +5,7 @@ Sources retrieved 2026-09-07. Website repository: [um-ei/um-ei.github.io](https:
 ## Design and branding
 
 - Reference: [Stanford REAL](https://real.stanford.edu/index.html), including its [Lab](https://real.stanford.edu/lab.html) and [Research](https://real.stanford.edu/research.html) pages. The local implementation follows its white canvas, compact navigation, spacious home layout, people sections, and illustrated publication list.
-- Current UMEI branding: user-supplied v31 assets in `public/assets/brand/`. `UMEI_bimanual_v31_original_red.svg` appears on Home; `UMEI_bimanual_v31_original_red_wordmark.svg` appears in the sticky header and favicon. The Home logo includes the user's subsequent lettering adjustments from 2026-09-08. Earlier design variants are retained separately in the local design workspace.
+- Current UMEI branding: user-supplied v54 assets in `public/assets/brand/`. `UMEI_bimanual_v54_matching_faces.svg` appears on Home; `UMEI_bimanual_v54_matching_faces_wordmark.svg` appears in the sticky header and favicon. Earlier design variants are retained separately in the local design workspace.
 - Lab name and institution follow the supplied logo: Embodied Intelligence Lab, University of Macau.
 - Home research description uses the exact wording supplied by the user in the revision request.
 

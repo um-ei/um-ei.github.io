@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1200" height="400" viewBox="-14 -26 600 200" role="img" aria-labelledby="title description"><title id="title">UMEI v54 — matching robot faces with a lower junction separator</title><desc id="description">The m face uses an exact copy of the E face shell rotated 90 degrees, with no scaling. Original v51 eyes stay unchanged and align at y=43. A thin white separation lies outside the face, only where it meets the central m stem. All other logo elements remain unchanged.</desc><g id="umei-wordmark"><g id="um-placement" transform="translate(36.666666665000 0)"><g id="um-module"><g id="u-connected-bowl"><path id="u-lower-arm" fill="#00628C" d="M0 43 H28 V88 C28 110 39 122 64 122 C88 122 103 108 103 86 V78 H129 V86 C129 126 105 150 64 150 C24 150 0 127 0 88 Z" /><g id="u-left-hand" fill="none" stroke="#00628C" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+      <path id="u-left-wrist-connector" d="M14 43 V18" />
+      <path id="u-left-gripper" d="M3 3 V18 H25 V3" />
+      </g>
+    <circle id="u-left-wrist-shell" cx="14" cy="43" r="14" fill="#00628C" /><circle id="u-left-wrist-hole" cx="14" cy="43" r="5" fill="#FFFFFF" /></g><g id="M-double-arched-bimanual" transform="translate(103 0)"><g id="M-left-arm"><path id="M-left-arched-upperarm-and-forearm" d="M 0,145 V 50 C 0,20 20,0 50,0 C 78,0 96,18 100,46 L 80,51 C 80,34 64,26 50,26 C 35,26 26,35 26,51 V 145 Q 26,150 21,150 H 5 Q 0,150 0,145 Z" fill="#00628C" /><circle id="M-left-elbow-hole" cx="13.625" cy="43" r="6" fill="#FFFFFF" /></g><g id="M-right-arm" transform="translate(186 0) scale(-1 1)"><path id="M-right-arched-upperarm-and-forearm" d="M 0,145 V 50 C 0,20 20,0 50,0 C 78,0 96,18 100,46 L 80,51 C 80,34 64,26 50,26 C 35,26 26,35 26,51 V 145 Q 26,150 21,150 H 5 Q 0,150 0,145 Z" fill="#00628C" /><circle id="M-right-elbow-hole" cx="13.625" cy="43" r="6" fill="#FFFFFF" /></g><g id="M-integrated-head-and-torso"><path id="M-torso" d="M 80,33.5 H 106 V 145 Q 106,150 101,150 H 85 Q 80,150 80,145 Z" fill="#00628C" /><defs><clipPath id="M-head-stem-separator-clip" clipPathUnits="userSpaceOnUse"><rect x="80" y="50" width="26" height="30" /></clipPath></defs><path id="M-head-stem-separator" d="M 75,58.5 Q 75,67.5 84,67.5 H 102 Q 111,67.5 111,58.5" fill="none" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" clip-path="url(#M-head-stem-separator-clip)" /><path id="M-face-shell" d="M 459,58 H 475 Q 484,58 484,67 V 85 Q 484,94 475,94 H 459 Q 450,94 450,85 V 67 Q 450,58 459,58 Z" fill="#00628C" transform="matrix(0 -1 1 0 17 517.5)" />
+        <rect id="M-eye-window" x="80" y="38.5" width="26" height="9" rx="4.5" fill="#FFFFFF" /><circle id="M-eye-left" cx="86.5" cy="43" r="2.5" fill="#00628C" /><circle id="M-eye-right" cx="99.5" cy="43" r="2.5" fill="#00628C" /></g></g></g></g><g id="ei-bimanual-assembly" transform="translate(-61.333333335000 0)" inkscape:groupmode="layer" inkscape:label="02 EI — bimanual assembly (shifted left 35)">
+      <g id="robot-torso" inkscape:groupmode="layer" inkscape:label="03 E — original 30-unit spine with narrower 36-unit chassis">
+        <path id="torso" d="M 428,0 H 439 V 150 H 428 A 19,19 0 0 1 409,131 V 19 A 19,19 0 0 1 428,0 Z" fill="#00628C" />
+        <path id="central-chassis" d="M 419.63636364,40 H 433.54545455 Q 445,40,445,54 V 98 Q 445,112,433.54545455,112 H 419.63636364 Q 409,112,409,99 V 53 Q 409,40,419.63636364,40 Z" fill="#00628C" />
+        <path id="chassis-panel-outline" d="M 418,48 H 432.72727273 Q 437.63636364,48,437.63636364,54 V 60 L 433.54545455,65 V 87 L 437.63636364,92 V 98 Q 437.63636364,104,432.72727273,104 H 418 Q 415.54545455,104,415.54545455,101 V 51 Q 415.54545455,48,418,48 Z" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linejoin="round" />
+        <path id="chassis-panel-vents" d="M 419.63636364,68 H 426.18181818 M 419.63636364,76 H 426.18181818 M 419.63636364,84 H 426.18181818" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" />
+      </g>
+      <g id="upper-arm" inkscape:groupmode="layer" inkscape:label="E — upper link, 28-unit thickness">
+        <rect id="upper-link" x="428" y="0" width="68" height="28" fill="#00628C" />
+        <rect id="upper-wrist-link" x="496" y="11" width="25" height="6" fill="#00628C" rx="2" />
+      </g>
+      <g id="lower-arm" inkscape:groupmode="layer" inkscape:label="E — lower link, 28-unit thickness">
+        <rect id="lower-link" x="428" y="122" width="68" height="28" fill="#00628C" />
+        <rect id="lower-wrist-link" x="496" y="133" width="25" height="6" fill="#00628C" rx="2" />
+      </g>
+      <g id="robot-head" inkscape:groupmode="layer" inkscape:label="06 E — rounded head with roof highlight and stereo eye window, no ears">
+        <rect id="chassis-neck" x="438" y="65" width="17" height="22" rx="3" fill="#00628C" />
+        <path id="sensor-pod-shell" d="M 459,58 H 475 Q 484,58 484,67 V 85 Q 484,94 475,94 H 459 Q 450,94 450,85 V 67 Q 450,58 459,58 Z" fill="#00628C" />
+        <rect id="front-sensor-panel" x="470" y="63" width="9" height="26" rx="4.5" fill="#FFFFFF" />
+        <circle id="upper-sensor-lens" cx="474.5" cy="69.5" r="2.5" fill="#00628C" />
+        <circle id="lower-sensor-lens" cx="474.5" cy="82.5" r="2.5" fill="#00628C" />
+      </g>
+      <g id="upper-gripper" inkscape:groupmode="layer" inkscape:label="07 Upper gripper — 16.6667-unit fingers, 6-unit lines, 2-unit corner radii" transform="translate(-3 -6)">
+        <path id="upper-rounded-gripper" d="M 543.66666667,-1 A 2,2 0 0 0 541.66666667,-3 L 523,-3 A 2,2 0 0 0 521,-1 L 521,41 A 2,2 0 0 0 523,43 L 541.66666667,43 A 2,2 0 0 0 543.66666667,41 L 543.66666667,39 A 2,2 0 0 0 541.66666667,37 L 529,37 A 2,2 0 0 1 527,35 L 527,5 A 2,2 0 0 1 529,3 L 541.66666667,3 A 2,2 0 0 0 543.66666667,1 Z" fill="#00628C" />
+      </g>
+      <g id="lower-gripper" inkscape:groupmode="layer" inkscape:label="08 Lower gripper — matching 16.6667-unit fingers, centered at y136" transform="translate(16 0)">
+        <path id="lower-rounded-gripper" d="M 524.66666667,126 A 2,2 0 0 0 522.66666667,124 L 504,124 A 2,2 0 0 0 502,126 L 502,146 A 2,2 0 0 0 504,148 L 522.66666667,148 A 2,2 0 0 0 524.66666667,146 L 524.66666667,144 A 2,2 0 0 0 522.66666667,142 L 510,142 A 2,2 0 0 1 508,140 L 508,132 A 2,2 0 0 1 510,130 L 522.66666667,130 A 2,2 0 0 0 524.66666667,128 Z" fill="#00628C" />
+        <rect id="lower-top-contact-underlap" x="522.66666667" y="126" width="5" height="2" fill="#00628C" />
+        <rect id="lower-bottom-contact-underlap" x="511.66666667" y="139" width="10" height="6" fill="#00628C" />
+      </g>
+      <g id="i-body" inkscape:groupmode="layer" inkscape:label="09 i — original 69-unit base width, 12-unit base height, shortened left serif" transform="translate(-0.33333333 0)">
+        <path id="cardinal-i-body" d="M 522.33333333,44 H 575 V 130 H 583 L 597,138.4 V 142 H 528 V 130 H 541 V 57 H 530.33333333 L 522.33333333,49 Z" fill="#8C1515" />
+      </g>
+      <g id="i-dot" inkscape:groupmode="layer" inkscape:label="10 i — Cardinal red dot shifted left with upper gripper" transform="translate(-14.33333333 -6)">
+        <circle id="cardinal-dot" cx="558" cy="20" r="18" fill="#8C1515" />
+      </g>
+      <g id="robot-joints" inkscape:groupmode="layer" inkscape:label="11 E — v5 hollow centers, shoulder and neck arc highlights">
+        <g id="upper-shoulder">
+          <circle id="upper-shoulder-outer-ring" cx="428" cy="19" r="19" fill="#00628C" />
+          <circle id="upper-shoulder-white-center" cx="428" cy="19" r="7" fill="#FFFFFF" />
+          <path id="upper-shoulder-arc-highlight" d="M 416.5438,17.9977 A 11.5,11.5 0 0 0 429.0023,30.4562" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" />
+        </g>
+        <g id="lower-shoulder">
+          <circle id="lower-shoulder-outer-ring" cx="428" cy="131" r="19" fill="#00628C" />
+          <circle id="lower-shoulder-white-center" cx="428" cy="131" r="7" fill="#FFFFFF" />
+          <path id="lower-shoulder-arc-highlight" d="M 416.5438,129.9977 A 11.5,11.5 0 0 0 429.0023,142.4562" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" />
+        </g>
+        <g id="upper-wrist">
+          <circle id="upper-wrist-outer-ring" cx="496" cy="14" r="14" fill="#00628C" />
+          <circle id="upper-wrist-white-center" cx="496" cy="14" r="5" fill="#FFFFFF" />
+        </g>
+        <g id="lower-wrist">
+          <circle id="lower-wrist-outer-ring" cx="496" cy="136" r="14" fill="#00628C" />
+          <circle id="lower-wrist-white-center" cx="496" cy="136" r="5" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+    </g></svg>

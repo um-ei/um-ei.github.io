@@ -12,7 +12,7 @@ export function SiteHeader({ current }: { current: string }) {
     <header className="site-header">
       <div className="header-inner site-width">
         <a className="wordmark" href={assetPath('/')} aria-label="UMEI home">
-          <img src={assetPath('/assets/brand/UMEI_bimanual_v31_original_red_wordmark.svg')} width="1220" height="392" alt="UMEI" loading="eager" />
+          <img src={assetPath('/assets/brand/UMEI_bimanual_v54_matching_faces_wordmark.svg')} width="1200" height="400" alt="UMEI" loading="eager" />
         </a>
         <nav aria-label="Main navigation">
           {links.map(({ href, label }) => {

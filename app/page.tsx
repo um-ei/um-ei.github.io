@@ -18,7 +18,7 @@ export default function Home() {
           </div>
         </div>
         <div className="hero-visual">
-          <img src={assetPath('/assets/brand/UMEI_bimanual_v31_original_red.svg')} width="671" height="304" alt="UMEI — Embodied Intelligence Lab, University of Macau" fetchPriority="high" loading="eager" />
+          <img src={assetPath('/assets/brand/UMEI_bimanual_v54_matching_faces.svg')} width="671" height="304" alt="UMEI — Embodied Intelligence Lab, University of Macau" fetchPriority="high" loading="eager" />
         </div>
       </section>
     </main>

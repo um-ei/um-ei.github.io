@@ -5,7 +5,7 @@ import './globals.css';
 export const metadata: Metadata = {
   title: { default: 'UMEI | Embodied Intelligence Lab', template: '%s | UMEI' },
   description: 'Embodied Intelligence Lab at the University of Macau. Research in robot learning, manipulation, and data-efficient learning.',
-  icons: { icon: assetPath('/assets/brand/UMEI_bimanual_v31_original_red_wordmark.svg') },
+  icons: { icon: assetPath('/assets/brand/UMEI_bimanual_v54_matching_faces_wordmark.svg') },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
