@@ -16,11 +16,17 @@ Sources retrieved 2026-09-07. Website repository: [um-ei/um-ei.github.io](https:
 - [Canonical personal website](https://www.dianwang.io/), the destination of https://pointw.github.io/.
 - [Dian Wang portrait](https://www.dianwang.io/images/profile.png), copied to `public/assets/people/dian-wang.png`.
 - All 38 visible publication entries were imported, with 38 original thumbnails and 111 resource links. Nine thumbnails are animated GIFs; original formats are preserved and research images load lazily.
-- Five entries explicitly labeled Preprint have no stated publication year and remain undated. The Research page follows the original personal website order without year groups or moving preprints to the top.
+- At import, five entries explicitly labeled Preprint had no stated publication year and were left undated. The original entries retain the personal website order without year groups.
 - Titles, author order and contribution markers, venue/status, resource URLs, and separate workshop award notes are preserved. Trophy emoji is omitted from displayed venue text; award wording is retained.
 - Every thumbnail retains its source URL in `data/publications.json`. All local images were fetched successfully. A prepublication HTTP audit checked 111 unique external URLs on 2026-09-07; publisher and OpenReview access restrictions remain documented in the audit report.
 - The SEIL project URL was updated from the broken `saulbatman.github.io/project/seil/` address to `https://mingxi-jia.github.io/SEIL_site/`, verified through the author’s website and official repository. The paper order and bibliographic text are unchanged.
 - The source spelling “Robin Walter” in MATCH POLICY is retained.
+
+### Publication updates — 2026-10-27
+
+- Added DUO Policy as the newest entry, bringing the list to 39 publications. Title, author order and spelling, and Project/PDF/Video links follow [Mingxi Jia’s homepage](https://mingxi-jia.github.io/) and the [DUO Policy project page](https://mingxi-jia.github.io/duo_policy_site/). The entry is labeled Preprint at the user’s request; the project’s citation gives 2026. Code and arXiv links are omitted because they are still marked “coming soon.”
+- Copied the [original DUO Policy thumbnail](https://mingxi-jia.github.io/images/duo_policy.jpg) to `public/assets/publications/duo_policy.jpg`; the source URL is retained in the publication data.
+- Updated Mixture of Frames Policy from Preprint to CoRL 2026, with year 2026 and published status, as requested and confirmed by its [official project page](https://mofpo.github.io/).
 
 ## Members
 
