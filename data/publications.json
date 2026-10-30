@@ -23,7 +23,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/duo_policy.jpg",
+      "src": "/assets/publications/optimized/duo_policy.webp",
       "source": "https://mingxi-jia.github.io/images/duo_policy.jpg"
     }
   },
@@ -55,8 +55,9 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/mofpo.gif",
-      "source": "https://www.dianwang.io/images/mofpo.gif"
+      "src": "/assets/publications/optimized/mofpo.webp",
+      "source": "https://www.dianwang.io/images/mofpo.gif",
+      "video": "/assets/publications/optimized/mofpo.mp4"
     }
   },
   {
@@ -79,8 +80,9 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/haojie_amp.gif",
-      "source": "https://www.dianwang.io/images/haojie_amp.gif"
+      "src": "/assets/publications/optimized/haojie_amp.webp",
+      "source": "https://www.dianwang.io/images/haojie_amp.gif",
+      "video": "/assets/publications/optimized/haojie_amp.mp4"
     }
   },
   {
@@ -103,8 +105,9 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/haojie_pix2act.gif",
-      "source": "https://www.dianwang.io/images/haojie_pix2act.gif"
+      "src": "/assets/publications/optimized/haojie_pix2act.webp",
+      "source": "https://www.dianwang.io/images/haojie_pix2act.gif",
+      "video": "/assets/publications/optimized/haojie_pix2act.mp4"
     }
   },
   {
@@ -135,8 +138,9 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/hommi.gif",
-      "source": "https://www.dianwang.io/images/hommi.gif"
+      "src": "/assets/publications/optimized/hommi.webp",
+      "source": "https://www.dianwang.io/images/hommi.gif",
+      "video": "/assets/publications/optimized/hommi.mp4"
     }
   },
   {
@@ -155,7 +159,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/equidiff.png",
+      "src": "/assets/publications/optimized/equidiff-still.webp",
       "source": "https://www.dianwang.io/images/equidiff.png"
     }
   },
@@ -179,7 +183,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/yizhe_equitac.png",
+      "src": "/assets/publications/optimized/yizhe_equitac.webp",
       "source": "https://www.dianwang.io/images/yizhe_equitac.png"
     }
   },
@@ -203,7 +207,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/haibo_gsl.png",
+      "src": "/assets/publications/optimized/haibo_gsl.webp",
       "source": "https://www.dianwang.io/images/haibo_gsl.png"
     }
   },
@@ -223,8 +227,9 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/boce_raven.gif",
-      "source": "https://www.dianwang.io/images/boce_raven.gif"
+      "src": "/assets/publications/optimized/boce_raven.webp",
+      "source": "https://www.dianwang.io/images/boce_raven.gif",
+      "video": "/assets/publications/optimized/boce_raven.mp4"
     }
   },
   {
@@ -247,7 +252,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/rel_traj.png",
+      "src": "/assets/publications/optimized/rel_traj.webp",
       "source": "https://www.dianwang.io/images/rel_traj.png"
     }
   },
@@ -271,8 +276,9 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/boce_i2s.gif",
-      "source": "https://www.dianwang.io/images/boce_i2s.gif"
+      "src": "/assets/publications/optimized/boce_i2s.webp",
+      "source": "https://www.dianwang.io/images/boce_i2s.gif",
+      "video": "/assets/publications/optimized/boce_i2s.mp4"
     }
   },
   {
@@ -295,7 +301,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/haibo_hep.png",
+      "src": "/assets/publications/optimized/haibo_hep.webp",
       "source": "https://www.dianwang.io/images/haibo_hep.png"
     }
   },
@@ -319,7 +325,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/boce_push_grasp.png",
+      "src": "/assets/publications/optimized/boce_push_grasp.webp",
       "source": "https://www.dianwang.io/images/boce_push_grasp.png"
     }
   },
@@ -343,7 +349,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/mingxi_gem.png",
+      "src": "/assets/publications/optimized/mingxi_gem.webp",
       "source": "https://www.dianwang.io/images/mingxi_gem.png"
     }
   },
@@ -363,7 +369,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/xupeng_c2f.png",
+      "src": "/assets/publications/optimized/xupeng_c2f.webp",
       "source": "https://www.dianwang.io/images/xupeng_c2f.png"
     }
   },
@@ -387,7 +393,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/haojie_match.png",
+      "src": "/assets/publications/optimized/haojie_match.webp",
       "source": "https://www.dianwang.io/images/haojie_match.png"
     }
   },
@@ -423,8 +429,9 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/equidiff.gif",
-      "source": "https://www.dianwang.io/images/equidiff.gif"
+      "src": "/assets/publications/optimized/equidiff.webp",
+      "source": "https://www.dianwang.io/images/equidiff.gif",
+      "video": "/assets/publications/optimized/equidiff.mp4"
     }
   },
   {
@@ -451,7 +458,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/boce_orbit.png",
+      "src": "/assets/publications/optimized/boce_orbit.webp",
       "source": "https://www.dianwang.io/images/boce_orbit.png"
     }
   },
@@ -479,7 +486,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/haojie_imagine.png",
+      "src": "/assets/publications/optimized/haojie_imagine.webp",
       "source": "https://www.dianwang.io/images/haojie_imagine.png"
     }
   },
@@ -499,7 +506,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/arsh_offline.png",
+      "src": "/assets/publications/optimized/arsh_offline.webp",
       "source": "https://www.dianwang.io/images/arsh_offline.png"
     }
   },
@@ -527,7 +534,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/haojie_iclr24.png",
+      "src": "/assets/publications/optimized/haojie_iclr24.webp",
       "source": "https://www.dianwang.io/images/haojie_iclr24.png"
     }
   },
@@ -551,7 +558,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/haojie_ijrr.png",
+      "src": "/assets/publications/optimized/haojie_ijrr.webp",
       "source": "https://www.dianwang.io/images/haojie_ijrr.png"
     }
   },
@@ -579,7 +586,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/ice_example.png",
+      "src": "/assets/publications/optimized/ice_example.webp",
       "source": "https://www.dianwang.io/images/ice_example.png"
     }
   },
@@ -607,7 +614,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/hai_corl23.png",
+      "src": "/assets/publications/optimized/hai_corl23.webp",
       "source": "https://www.dianwang.io/images/hai_corl23.png"
     }
   },
@@ -635,7 +642,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/xupeng_ar.jpg",
+      "src": "/assets/publications/optimized/xupeng_ar.webp",
       "source": "https://www.dianwang.io/images/xupeng_ar.jpg"
     }
   },
@@ -675,7 +682,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/iclr23.gif",
+      "src": "/assets/publications/optimized/iclr23.webp",
       "source": "https://www.dianwang.io/images/iclr23.gif"
     }
   },
@@ -703,7 +710,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/mingxi_icra23.png",
+      "src": "/assets/publications/optimized/mingxi_icra23.webp",
       "source": "https://www.dianwang.io/images/mingxi_icra23.png"
     }
   },
@@ -731,7 +738,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/haojie_icra23.png",
+      "src": "/assets/publications/optimized/haojie_icra23.webp",
       "source": "https://www.dianwang.io/images/haojie_icra23.png"
     }
   },
@@ -767,7 +774,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/rss22.png",
+      "src": "/assets/publications/optimized/rss22.webp",
       "source": "https://www.dianwang.io/images/rss22.png"
     }
   },
@@ -803,7 +810,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/hai_corl22.png",
+      "src": "/assets/publications/optimized/hai_corl22.webp",
       "source": "https://www.dianwang.io/images/hai_corl22.png"
     }
   },
@@ -827,7 +834,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/bulletarm.png",
+      "src": "/assets/publications/optimized/bulletarm.webp",
       "source": "https://www.dianwang.io/images/bulletarm.png"
     }
   },
@@ -855,7 +862,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/equi_transporter.png",
+      "src": "/assets/publications/optimized/equi_transporter.webp",
       "source": "https://www.dianwang.io/images/equi_transporter.png"
     }
   },
@@ -887,7 +894,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/rss_grasp.jpeg",
+      "src": "/assets/publications/optimized/rss_grasp.webp",
       "source": "https://www.dianwang.io/images/rss_grasp.jpeg"
     }
   },
@@ -927,8 +934,9 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/iclr22_drawer.gif",
-      "source": "https://www.dianwang.io/images/iclr22_drawer.gif"
+      "src": "/assets/publications/optimized/iclr22_drawer.webp",
+      "source": "https://www.dianwang.io/images/iclr22_drawer.gif",
+      "video": "/assets/publications/optimized/iclr22_drawer.mp4"
     }
   },
   {
@@ -967,7 +975,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/corl21.png",
+      "src": "/assets/publications/optimized/corl21.webp",
       "source": "https://www.dianwang.io/images/corl21.png"
     }
   },
@@ -987,7 +995,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/Paladyn21.png",
+      "src": "/assets/publications/optimized/Paladyn21.webp",
       "source": "https://www.dianwang.io/images/Paladyn21.png"
     }
   },
@@ -1011,7 +1019,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/aamas21.png",
+      "src": "/assets/publications/optimized/aamas21.webp",
       "source": "https://www.dianwang.io/images/aamas21.png"
     }
   },
@@ -1047,7 +1055,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/asrse3.png",
+      "src": "/assets/publications/optimized/asrse3.webp",
       "source": "https://www.dianwang.io/images/asrse3.png"
     }
   },
@@ -1075,7 +1083,7 @@
       }
     ],
     "thumbnail": {
-      "src": "/assets/publications/scooter.png",
+      "src": "/assets/publications/optimized/scooter.webp",
       "source": "https://www.dianwang.io/images/scooter.png"
     }
   }

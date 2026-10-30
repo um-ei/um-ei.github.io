@@ -28,6 +28,13 @@ Sources retrieved 2026-09-07. Website repository: [um-ei/um-ei.github.io](https:
 - Copied the [original DUO Policy thumbnail](https://mingxi-jia.github.io/images/duo_policy.jpg) to `public/assets/publications/duo_policy.jpg`; the source URL is retained in the publication data.
 - Updated Mixture of Frames Policy from Preprint to CoRL 2026, with year 2026 and published status, as requested and confirmed by its [official project page](https://mofpo.github.io/).
 
+### Research thumbnail compression — 2026-10-30
+
+- Original publication media remain in place. `public/assets/publications/optimized/` contains the compressed derivatives used on Research; each publication retains its original source URL. All 39 publications, links, and display sizes are unchanged.
+- The 30 static thumbnails fit within 560 × 340 pixels without upscaling, approximately twice the largest displayed size. They use WebP quality 92 with sharp chroma conversion, or lossless WebP after resizing where it is economical. This is a perceptual optimization, not a claim of pixel-identical originals.
+- Eight photographic/simulation GIFs use silent H.264 MP4 loops with WebP posters. Frame timing and total duration are preserved; videos load near the viewport and pause when offscreen. The ICLR 2023 line-art animation instead uses native-resolution lossless animated WebP to preserve its colored edges and text.
+- The complete set of referenced thumbnail media, including video posters, decreases from 41,130,564 to 6,538,184 bytes (84.1%). This is the full-list asset total, not the initial page download size. The local comparison page and per-file audit are in ignored `work/image-compression-20261030/`.
+
 ## Members
 
 Degree categories and membership are supplied by the user on 2026-09-07.

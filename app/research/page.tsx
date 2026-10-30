@@ -1,4 +1,5 @@
 import { SiteHeader } from '../../components/site/header';
+import { PublicationVideo } from '../../components/site/publication-video';
 import type { Metadata } from 'next';
 import publications from '../../data/publications.json';
 import { assetPath } from '../../lib/paths';
@@ -25,7 +26,15 @@ export default function Research() {
               <li key={paper.order}>
                 <article className="publication">
                   <a className="publication-image" href={paper.url} aria-label={paper.title} tabIndex={-1}>
-                    <img src={assetPath(paper.thumbnail.src)} alt={`Research illustration for ${paper.title}`} width="240" height="156" loading="lazy" decoding="async" />
+                    {'video' in paper.thumbnail && typeof paper.thumbnail.video === 'string' ? (
+                      <PublicationVideo
+                        src={assetPath(paper.thumbnail.video)}
+                        poster={assetPath(paper.thumbnail.src)}
+                        title={paper.title}
+                      />
+                    ) : (
+                      <img src={assetPath(paper.thumbnail.src)} alt={`Research illustration for ${paper.title}`} width="240" height="156" loading="lazy" decoding="async" />
+                    )}
                   </a>
                   <div>
                     <h2><a href={paper.url}>{paper.title}</a></h2>
